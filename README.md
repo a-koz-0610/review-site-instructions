@@ -30,7 +30,7 @@ Acquisitions, Inc. requires:
   - should have a method to find all reviews
   - should have a method to find one review by id
 - Create a ReviewsController class.
-  - It should have a method mapped to a url outputs all reviews and allows the user to add a review via an HTML form
+  - It should have a method mapped to a url outputs all reviews
   - should have a method mapped to a url including an id parameter that outputs the details of a single review
 
 ## Thymeleaf Tips
