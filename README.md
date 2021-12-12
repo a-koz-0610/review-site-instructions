@@ -8,15 +8,10 @@ Acquisitions, Inc. has many, many products from its years of, well, acquiring th
 
 Acquisitions, Inc. requires:
 
-- Development of a MVC Web Application by a team that practices agile methodology, utilizes test driven design, and values clean code
+- Development of a MVC Web Application that practices agile methodology, utilizes test driven design, and values clean code
 - Appropriate use of Git and access to your application on GitHub
 - Useful instructions in the form of a README.md file
-- Ability for Users to:
-  - make an account and log into the review site
-  - view reviews on products
-  - create, update, and delete their own reviews
 
-# Sprint 0
 
 ## Materials
 
